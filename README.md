@@ -1,1 +1,8 @@
-# acaeo_cloudflare_cname
+## 唯一指定CNAME地址：proxy.acaeo.tk.
+本节点均使用CloudFlare ~~*（半）*~~ 官方泛播IP，无反代IP，考虑极致速度请慎用。
+请合理使用，本站无法，也不会做出任何保证。
+
+## 线路说明
+### 移动：香港CMI
+### 联通：日本NTT/法国orange混合（4837）
+### 电信：美国圣何塞/洛杉矶（4134）
