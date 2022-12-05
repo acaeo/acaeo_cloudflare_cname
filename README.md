@@ -4,5 +4,5 @@
 
 ## CloudFlare 边缘节点
 ### 移动：HKG(Hong Kong)
-### 联通：NRT(Tokyo, Japan)、MAD(Madrid, Spain)
+### 联通：NRT(Tokyo, Japan)、MAD(Madrid, Spain)、HKG(Hong Kong)、LHR(London, United Kingdom)
 ### 电信：SJC(Salt Lake City, UT, United States)
